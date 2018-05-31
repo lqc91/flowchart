@@ -1,0 +1,66 @@
+<svg width="950" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- HTML -->
+  <rect x="50" y="180" width="100" height="40" rx="20" ry="20" fill="#DCFFFE" stroke="#7CD9D8" />
+  <text x="100" y="200" font-size="12" fill="#888" text-anchor="middle" dominant-baseline="middle">HTML</text>
+  <line x1="150" y1="200" x2="190" y2="200" stroke="#75CC4E" />
+   <!-- <path d="M 150 200 h 40" stroke="#75CC4E" /> -->
+  <polygon points="190 197, 200 200, 190 203" fill="#75CC4E" />
+  <!-- CSS -->
+  <rect x="200" y="180" width="100" height="40" rx="5" ry="5" fill="#DCFFFE" stroke="#7CD9D8" />
+  <text x="250" y="200" font-size="12" fill="#888" text-anchor="middle" dominant-baseline="middle">CSS</text>
+  <path d="M 300 200 h 40" stroke="#75CC4E" />
+  <polygon points="340 197, 350 200, 340 203" fill="#75CC4E" />
+  <!-- 选择方向 -->
+  <polygon points="400 170, 450 200, 400 230, 350 200" fill="#DEF2FF" stroke="#98B2E3" />
+  <text x="400" y="200" font-size="12" fill="#888" text-anchor="middle" dominant-baseline="middle">选择方向</text>
+  <!-- 分支一 -->
+  <path d="M 400 170 v -60 a 10 10 90 0 1 10 -10 h 80" fill="transparent" stroke="#75CC4E" />
+  <text x="455" y="95" font-size="12" fill="#888">前端</text>
+  <polygon points="490 97, 500 100, 490 103" fill="#75CC4E" />
+  <!-- JavaScript -->
+  <rect x="500" y="80" width="100" height="40" rx="5" ry="5" fill="#DCFFFE" stroke="#7CD9D8" />
+  <text x="550" y="100" font-size="12" fill="#888" text-anchor="middle" dominant-baseline="middle">JavaScript</text>
+  <path d="M 600 100 h 40" stroke="#75CC4E" />
+  <polygon points="640 97, 650 100, 640 103" fill="#75CC4E" />
+  <!-- TypeScript -->
+  <rect x="650" y="80" width="100" height="40" rx="5" ry="5" fill="#DCFFFE" stroke="#7CD9D8" />
+  <text x="700" y="100" font-size="12" fill="#888" text-anchor="middle" dominant-baseline="middle">TypeScript</text>
+  <path d="M 750 100 h 40" stroke="#75CC4E" />
+  <polygon points="790 97, 800 100, 790 103" fill="#75CC4E" />
+  <!-- Angular -->
+  <rect x="800" y="80" width="100" height="40" rx="5" ry="5" fill="#DCFFFE" stroke="#7CD9D8" />
+  <text x="850" y="100" font-size="12" fill="#888" text-anchor="middle" dominant-baseline="middle">Angular</text>
+  <circle cx="850" cy="50" r="20" fill="transparent" stroke="#2BBAB8" stroke-width="2" />
+  <polygon points="845 40, 855 40, 855 50, 865 50, 850 65, 835 50, 845 50" fill="#2BBAB8" />
+  <!-- 分支二 -->
+  <path d="M 450 200 h 40" stroke="#CAD0D8" />
+  <text x="450" y="195" font-size="12" fill="#888">库/框架</text>
+  <polygon points="490 197, 500 200, 490 203" fill="#CAD0D8" />
+  <!-- JQuery -->
+  <rect x="500" y="180" width="100" height="40" rx="5" ry="5" fill="#DCFFFE" stroke="#7CD9D8" />
+  <text x="550" y="200" font-size="12" fill="#888" text-anchor="middle" dominant-baseline="middle">JQuery</text>
+  <path d="M 600 200 h 40" stroke="#CAD0D8" />
+  <polygon points="640 197, 650 200, 640 203" fill="#CAD0D8" />
+  <!-- AngularJS -->
+  <rect x="650" y="180" width="100" height="40" rx="5" ry="5" fill="#DCFFFE" stroke="#7CD9D8" />
+  <text x="700" y="200" font-size="12" fill="#888" text-anchor="middle" dominant-baseline="middle">AngularJS</text>
+  <path d="M 750 200 h 90 a 10 10 90 0 0 10 -10 v -70" fill="transparent" stroke="#CAD0D8" />
+  <polygon points="847 130, 850 120, 853 130" fill="#CAD0D8" />
+  <!-- 分支三 -->
+  <path d="M 400 230 v 60 a 10 10 90 0 0 10 10 h 80" fill="transparent" stroke="#CAD0D8" />
+  <text x="455" y="295" font-size="12" fill="#888">重构</text>
+  <polygon points="490 297, 500 300, 490 303" fill="#CAD0D8" />
+  <!-- HTML5 -->
+  <rect x="500" y="280" width="100" height="40" rx="5" ry="5" fill="#DCFFFE" stroke="#7CD9D8" />
+  <text x="550" y="300" font-size="12" fill="#888" text-anchor="middle" dominant-baseline="middle">HTML5</text>
+  <path d="M 600 300 h 40" stroke="#CAD0D8" />
+  <polygon points="640 297, 650 300, 640 303" fill="#CAD0D8" />
+  <!-- CSS3 -->
+  <rect x="650" y="280" width="100" height="40" rx="5" ry="5" fill="#DCFFFE" stroke="#7CD9D8" />
+  <text x="700" y="300" font-size="12" fill="#888" text-anchor="middle" dominant-baseline="middle">CSS3</text>
+  <path d="M 750 300 h 40" stroke="#CAD0D8" />
+  <polygon points="790 297, 800 300, 790 303" fill="#CAD0D8" />
+  <!-- SVG -->
+  <rect x="800" y="280" width="100" height="40" rx="5" ry="5" fill="#DCFFFE" stroke="#7CD9D8" />
+  <text x="850" y="300" font-size="12" fill="#888" text-anchor="middle" dominant-baseline="middle">SVG</text>
+</svg>
